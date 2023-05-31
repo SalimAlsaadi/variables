@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Enter first number ");
+            Console.WriteLine("Enter first number ");
             string num1 = Console.ReadLine();
             int  num4 = (int)Convert.ToInt64(num1);
             Console.WriteLine("Enter second Number ");
@@ -26,7 +26,7 @@
             num3 = num4 % num5;
             Console.WriteLine("num1 % num2 = " + num3);
             num3 = num5 % num4;
-            Console.WriteLine("num2 % num1 = " + num3);*/
+            Console.WriteLine("num2 % num1 = " + num3);
 
             int a = 10;
             int b = 20;
